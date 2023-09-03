@@ -1,2 +1,1 @@
-const lol = 0;
-const top = 0;
+console.log("Teste");
