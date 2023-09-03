@@ -1,1 +1,3 @@
-const oi = 0;
+const text = "Hello World!";
+
+console.log(text);
